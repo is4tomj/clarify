@@ -12,6 +12,7 @@ Clarify solves this problem by printing numbers in red and capital letters in cy
 
 ## Build and install
 
+Clone the repo, `cd` into that directory, and run the following command.
 ```bash
 $ go build && go install
 ```
