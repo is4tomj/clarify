@@ -22,3 +22,7 @@ $ go build && go install
 $ echo "1lIO0" | clarify
 ```
 
+## Testing
+```bash
+$ go test
+```
