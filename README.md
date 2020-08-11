@@ -10,4 +10,14 @@ Clarify solves this problem by printing numbers in red and capital letters in cy
 ![Example Image](example.png)
 
 
+## Build and install
+
+```bash
+$ go build && go install
+```
+
+## Example usage
+```bash
+$ echo "1lIO0" | clarify
+```
 
