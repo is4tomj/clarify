@@ -10,11 +10,10 @@ On a command line, and depending on your font, it can be hard to tell the differ
 Clarify solves this problem by printing numbers in red and capital letters in cyan. Just pipe your output to clarify and you are set.
 
 
-## Build and install
+## Build and install from source
 
-Clone the repo, `cd` into that directory, and run the following command.
 ```bash
-$ go build && go install
+$ go get github.com/is4tomj/clarify
 ```
 
 ## Example usage
