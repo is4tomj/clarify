@@ -10,9 +10,14 @@ On a command line, and depending on your font, it can be hard to tell the differ
 Clarify solves this problem by printing numbers in red and capital letters in cyan. Just pipe your output to clarify and you are set.
 
 
-## Build and install from source
+## Install
 
 ```bash
+# Using brew
+$ brew tap is4tomj/commands-reimagined
+$ brew install clarlify
+
+# Build and install from source
 $ go get github.com/is4tomj/clarify
 ```
 
