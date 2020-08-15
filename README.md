@@ -1,7 +1,7 @@
 Clarify
 ==========
 
-Color code numbers and capital letters.
+Color code numbers and uppercase letters.
 
 ![Example Image](example.png)
 
