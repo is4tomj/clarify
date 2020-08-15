@@ -15,7 +15,7 @@ Clarify solves this problem by printing numbers in red and capital letters in cy
 ```bash
 # Using brew
 $ brew tap is4tomj/commands-reimagined
-$ brew install clarlify
+$ brew install clarify
 
 # Build and install from source
 $ go get github.com/is4tomj/clarify
